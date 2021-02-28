@@ -1,5 +1,5 @@
 # Basic-Calculator
-Only for basic calculation purposes. (Lightning Web Component)
+Only for basic calculation purposes (Lightning Web Component). You can easily perform addition, multiplication, subtraction and division action and track previous results too. 
 
 # Download The Components
 In this module, you use Visual Studio Code (VS Code) to edit code. Open VS Code and clone this GitHub repo.
